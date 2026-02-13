@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\ExibirNome\bin\Debug\ExibirNome.exe.config
+C:\Users\pietro.froliveira\source\repos\ExibirNome\bin\Debug\ExibirNome.exe
+C:\Users\pietro.froliveira\source\repos\ExibirNome\bin\Debug\ExibirNome.pdb
+C:\Users\pietro.froliveira\source\repos\ExibirNome\obj\Debug\ExibirNome.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\ExibirNome\obj\Debug\ExibirNome.frmExibirNome.resources
+C:\Users\pietro.froliveira\source\repos\ExibirNome\obj\Debug\ExibirNome.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\ExibirNome\obj\Debug\ExibirNome.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\ExibirNome\obj\Debug\ExibirNome.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\ExibirNome\obj\Debug\ExibirNome.exe
+C:\Users\pietro.froliveira\source\repos\ExibirNome\obj\Debug\ExibirNome.pdb
+C:\Users\pietro.froliveira\source\repos\ExibirNome\obj\Debug\ExibirNome.exe.config
