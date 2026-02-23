@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\bin\Debug\TrabalhoCalculadora.exe.config
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\bin\Debug\TrabalhoCalculadora.exe
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\bin\Debug\TrabalhoCalculadora.pdb
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\obj\Debug\TrabalhoCalculadora.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\obj\Debug\TrabalhoCalculadora.Form1.resources
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\obj\Debug\TrabalhoCalculadora.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\obj\Debug\TrabalhoCalculadora.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\obj\Debug\TrabalhoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\obj\Debug\TrabalhoCalculadora.exe
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\obj\Debug\TrabalhoCalculadora.pdb
+C:\Users\pietro.froliveira\source\repos\TrabalhoCalculadora\obj\Debug\TrabalhoCalculadora.exe.config
