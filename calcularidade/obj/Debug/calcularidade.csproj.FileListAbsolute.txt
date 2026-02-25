@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\calcularidade\bin\Debug\calcularidade.exe.config
+C:\Users\pietro.froliveira\source\repos\calcularidade\bin\Debug\calcularidade.exe
+C:\Users\pietro.froliveira\source\repos\calcularidade\bin\Debug\calcularidade.pdb
+C:\Users\pietro.froliveira\source\repos\calcularidade\obj\Debug\calcularidade.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\calcularidade\obj\Debug\calcularidade.frmCalcularIdade.resources
+C:\Users\pietro.froliveira\source\repos\calcularidade\obj\Debug\calcularidade.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\calcularidade\obj\Debug\calcularidade.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\calcularidade\obj\Debug\calcularidade.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\calcularidade\obj\Debug\calcularidade.exe
+C:\Users\pietro.froliveira\source\repos\calcularidade\obj\Debug\calcularidade.pdb
+C:\Users\pietro.froliveira\source\repos\calcularidade\obj\Debug\calcularidade.exe.config

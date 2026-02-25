@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\bin\Debug\DadosNecessario.exe.config
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\bin\Debug\DadosNecessario.exe
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\bin\Debug\DadosNecessario.pdb
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\obj\Debug\DadosNecessario.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\obj\Debug\DadosNecessario.Form1.resources
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\obj\Debug\DadosNecessario.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\obj\Debug\DadosNecessario.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\obj\Debug\DadosNecessario.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\obj\Debug\DadosNecessario.exe
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\obj\Debug\DadosNecessario.pdb
+C:\Users\pietro.froliveira\source\repos\DadosNecessario\obj\Debug\DadosNecessario.exe.config
