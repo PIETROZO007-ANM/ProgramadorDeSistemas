@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\obj\Debug\TrabalhoDiaDaSemana.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\obj\Debug\TrabalhoDiadaSemana.Form1.resources
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\obj\Debug\TrabalhoDiaDaSemana.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\obj\Debug\TrabalhoDiaDaSemana.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\obj\Debug\TrabalhoDiaDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\bin\Debug\TrabalhoDiaDaSemana.exe.config
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\bin\Debug\TrabalhoDiaDaSemana.exe
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\bin\Debug\TrabalhoDiaDaSemana.pdb
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\obj\Debug\TrabalhoDiaDaSemana.exe
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\obj\Debug\TrabalhoDiaDaSemana.pdb
+C:\Users\pietro.froliveira\source\repos\TrabalhoDiaDaSemana\obj\Debug\TrabalhoDiaDaSemana.exe.config

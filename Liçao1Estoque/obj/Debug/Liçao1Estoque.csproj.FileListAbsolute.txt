@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\obj\Debug\Liçao1Estoque.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\obj\Debug\Liçao1Estoque.Form1.resources
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\obj\Debug\Liçao1Estoque.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\obj\Debug\Liçao1Estoque.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\obj\Debug\Liçao1Estoque.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\bin\Debug\Liçao1Estoque.exe.config
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\bin\Debug\Liçao1Estoque.exe
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\bin\Debug\Liçao1Estoque.pdb
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\obj\Debug\Liçao1Estoque.exe
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\obj\Debug\Liçao1Estoque.pdb
+C:\Users\pietro.froliveira\source\repos\Liçao1Estoque\obj\Debug\Liçao1Estoque.exe.config

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A1C1A-3D87-4F76-B7FB-EAA1996924AD}|TrabalhoDiaDaSemana.csproj|c:\\users\\pietro.froliveira\\source\\repos\\trabalhodiadasemana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A1C1A-3D87-4F76-B7FB-EAA1996924AD}|TrabalhoDiaDaSemana.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A1C1A-3D87-4F76-B7FB-EAA1996924AD}|TrabalhoDiaDaSemana.csproj|C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A1C1A-3D87-4F76-B7FB-EAA1996924AD}|TrabalhoDiaDaSemana.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A1C1A-3D87-4F76-B7FB-EAA1996924AD}|TrabalhoDiaDaSemana.csproj|C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D40A1C1A-3D87-4F76-B7FB-EAA1996924AD}|TrabalhoDiaDaSemana.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\Form1.Designer.cs*",
+              "RelativeToolTip": "Form1.Designer.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswG4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:57:06.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:35:57.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pietro.froliveira\\source\\repos\\TrabalhoDiaDaSemana\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:30:40.652Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
