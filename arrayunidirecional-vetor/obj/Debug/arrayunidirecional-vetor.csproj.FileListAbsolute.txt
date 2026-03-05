@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\bin\Debug\arrayunidirecional-vetor.exe.config
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\bin\Debug\arrayunidirecional-vetor.exe
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\bin\Debug\arrayunidirecional-vetor.pdb
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\obj\Debug\arrayunidirecional-vetor.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\obj\Debug\arrayunidirecional_vetor.frmVetor.resources
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\obj\Debug\arrayunidirecional_vetor.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\obj\Debug\arrayunidirecional-vetor.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\obj\Debug\arrayunidirecional-vetor.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\obj\Debug\arrayunidirecional-vetor.exe
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\obj\Debug\arrayunidirecional-vetor.pdb
+C:\Users\pietro.froliveira\source\repos\arrayunidirecional-vetor\obj\Debug\arrayunidirecional-vetor.exe.config

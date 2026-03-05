@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\bin\Debug\tabuadacomloop.exe.config
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\bin\Debug\tabuadacomloop.exe
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\bin\Debug\tabuadacomloop.pdb
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\obj\Debug\tabuadacomloop.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\obj\Debug\tabuadacomloop.frmTabuadaLoop.resources
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\obj\Debug\tabuadacomloop.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\obj\Debug\tabuadacomloop.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\obj\Debug\tabuadacomloop.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\obj\Debug\tabuadacomloop.exe
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\obj\Debug\tabuadacomloop.pdb
+C:\Users\pietro.froliveira\source\repos\tabuadacomloop\obj\Debug\tabuadacomloop.exe.config

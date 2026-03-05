@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\bin\Debug\CalculadoraMatrizes.exe.config
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\bin\Debug\CalculadoraMatrizes.exe
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\bin\Debug\CalculadoraMatrizes.pdb
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\obj\Debug\CalculadoraMatrizes.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\obj\Debug\CalculadoraMatrizes.Form1.resources
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\obj\Debug\CalculadoraMatrizes.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\obj\Debug\CalculadoraMatrizes.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\obj\Debug\CalculadoraMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\obj\Debug\CalculadoraMatrizes.exe
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\obj\Debug\CalculadoraMatrizes.pdb
+C:\Users\pietro.froliveira\source\repos\CalculadoraMatrizes\obj\Debug\CalculadoraMatrizes.exe.config
