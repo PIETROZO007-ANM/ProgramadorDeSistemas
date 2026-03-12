@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\pietro.froliveira\\source\\repos\\CalculadoraMatriz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9299143-8CD4-4DBF-93FC-E949A88EC82B}|CalculadoraMatriz.csproj|c:\\users\\pietro.froliveira\\source\\repos\\calculadoramatriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D9299143-8CD4-4DBF-93FC-E949A88EC82B}|CalculadoraMatriz.csproj|c:\\users\\pietro.froliveira\\source\\repos\\calculadoramatriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9299143-8CD4-4DBF-93FC-E949A88EC82B}|CalculadoraMatriz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9299143-8CD4-4DBF-93FC-E949A88EC82B}|CalculadoraMatriz.csproj|C:\\Users\\pietro.froliveira\\source\\repos\\CalculadoraMatriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D9299143-8CD4-4DBF-93FC-E949A88EC82B}|CalculadoraMatriz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pietro.froliveira\\source\\repos\\CalculadoraMatriz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pietro.froliveira\\source\\repos\\CalculadoraMatriz\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:43:42.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pietro.froliveira\\source\\repos\\CalculadoraMatriz\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

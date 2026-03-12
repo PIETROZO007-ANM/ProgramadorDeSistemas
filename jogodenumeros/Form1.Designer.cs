@@ -67,9 +67,9 @@
             this.lblSubTitulo.ForeColor = System.Drawing.Color.Red;
             this.lblSubTitulo.Location = new System.Drawing.Point(189, 104);
             this.lblSubTitulo.Name = "lblSubTitulo";
-            this.lblSubTitulo.Size = new System.Drawing.Size(401, 22);
+            this.lblSubTitulo.Size = new System.Drawing.Size(412, 22);
             this.lblSubTitulo.TabIndex = 1;
-            this.lblSubTitulo.Text = "10 tentativas! Insira um número de 1 até 10";
+            this.lblSubTitulo.Text = "10 tentativas! Insira um número de 1 até 100";
             // 
             // txtNumeroInserido
             // 

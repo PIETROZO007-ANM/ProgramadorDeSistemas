@@ -1,0 +1,12 @@
+C:\Users\pietro.froliveira\source\repos\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\pietro.froliveira\source\repos\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\pietro.froliveira\source\repos\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.FrmLogin.resources
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.exe.config
+C:\Users\pietro.froliveira\source\repos\TelaLogin\obj\Debug\TelaLogin.Form2.resources
