@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D9299143-8CD4-4DBF-93FC-E949A88EC82B}</ProjectGuid>
+    <ProjectGuid>{0A192C24-E213-45A0-9264-1FA86D19CDE9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CalculadoraMatriz</RootNamespace>
-    <AssemblyName>CalculadoraMatriz</AssemblyName>
+    <RootNamespace>Sidebar</RootNamespace>
+    <AssemblyName>Sidebar</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

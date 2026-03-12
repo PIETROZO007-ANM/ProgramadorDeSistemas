@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36310.24 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraMatriz", "CalculadoraMatriz.csproj", "{D9299143-8CD4-4DBF-93FC-E949A88EC82B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sidebar", "Sidebar.csproj", "{0A192C24-E213-45A0-9264-1FA86D19CDE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D9299143-8CD4-4DBF-93FC-E949A88EC82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9299143-8CD4-4DBF-93FC-E949A88EC82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9299143-8CD4-4DBF-93FC-E949A88EC82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9299143-8CD4-4DBF-93FC-E949A88EC82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A192C24-E213-45A0-9264-1FA86D19CDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A192C24-E213-45A0-9264-1FA86D19CDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A192C24-E213-45A0-9264-1FA86D19CDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A192C24-E213-45A0-9264-1FA86D19CDE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {601D6C1B-EAAD-42FD-9BCF-2DEA67CFCCF5}
+		SolutionGuid = {2AE5BD61-7D02-48F0-A892-E59AB6B8E8F1}
 	EndGlobalSection
 EndGlobal

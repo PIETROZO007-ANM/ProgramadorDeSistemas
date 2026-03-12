@@ -1,0 +1,11 @@
+C:\Users\pietro.froliveira\source\repos\Sidebar\bin\Debug\Sidebar.exe.config
+C:\Users\pietro.froliveira\source\repos\Sidebar\bin\Debug\Sidebar.exe
+C:\Users\pietro.froliveira\source\repos\Sidebar\bin\Debug\Sidebar.pdb
+C:\Users\pietro.froliveira\source\repos\Sidebar\obj\Debug\Sidebar.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\Sidebar\obj\Debug\Sidebar.Form1.resources
+C:\Users\pietro.froliveira\source\repos\Sidebar\obj\Debug\Sidebar.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\Sidebar\obj\Debug\Sidebar.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\Sidebar\obj\Debug\Sidebar.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\Sidebar\obj\Debug\Sidebar.exe
+C:\Users\pietro.froliveira\source\repos\Sidebar\obj\Debug\Sidebar.pdb
+C:\Users\pietro.froliveira\source\repos\Sidebar\obj\Debug\Sidebar.exe.config

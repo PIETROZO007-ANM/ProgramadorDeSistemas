@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CalculadoraMatriz.Properties
+namespace Sidebar.Properties
 {
 
 
