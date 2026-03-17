@@ -34,15 +34,15 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.btnMenu = new System.Windows.Forms.PictureBox();
+            this.HomeContainer = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.btnHome = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.sidebarTimer = new System.Windows.Forms.Timer(this.components);
             this.HomeTimer = new System.Windows.Forms.Timer(this.components);
-            this.button1 = new System.Windows.Forms.Button();
-            this.HomeContainer = new System.Windows.Forms.Panel();
-            this.btnHome = new System.Windows.Forms.Button();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.sidebar.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -98,15 +98,17 @@
             this.btnMenu.TabStop = false;
             this.btnMenu.Click += new System.EventHandler(this.btnMenu_Click);
             // 
-            // sidebarTimer
+            // HomeContainer
             // 
-            this.sidebarTimer.Interval = 10;
-            this.sidebarTimer.Tick += new System.EventHandler(this.sidebarTimer_Tick);
-            // 
-            // HomeTimer
-            // 
-            this.HomeTimer.Interval = 10;
-            this.HomeTimer.Tick += new System.EventHandler(this.HomeTimer_Tick);
+            this.HomeContainer.BackColor = System.Drawing.Color.Gray;
+            this.HomeContainer.Controls.Add(this.button1);
+            this.HomeContainer.Controls.Add(this.panel2);
+            this.HomeContainer.Location = new System.Drawing.Point(3, 91);
+            this.HomeContainer.MaximumSize = new System.Drawing.Size(176, 102);
+            this.HomeContainer.MinimumSize = new System.Drawing.Size(176, 52);
+            this.HomeContainer.Name = "HomeContainer";
+            this.HomeContainer.Size = new System.Drawing.Size(176, 52);
+            this.HomeContainer.TabIndex = 2;
             // 
             // button1
             // 
@@ -122,17 +124,14 @@
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // HomeContainer
+            // panel2
             // 
-            this.HomeContainer.BackColor = System.Drawing.Color.Gray;
-            this.HomeContainer.Controls.Add(this.button1);
-            this.HomeContainer.Controls.Add(this.panel2);
-            this.HomeContainer.Location = new System.Drawing.Point(3, 91);
-            this.HomeContainer.MaximumSize = new System.Drawing.Size(176, 102);
-            this.HomeContainer.MinimumSize = new System.Drawing.Size(176, 52);
-            this.HomeContainer.Name = "HomeContainer";
-            this.HomeContainer.Size = new System.Drawing.Size(176, 52);
-            this.HomeContainer.TabIndex = 2;
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel2.Controls.Add(this.btnHome);
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(176, 52);
+            this.panel2.TabIndex = 1;
             // 
             // btnHome
             // 
@@ -149,14 +148,19 @@
             this.btnHome.UseVisualStyleBackColor = true;
             this.btnHome.Click += new System.EventHandler(this.btnHome_Click);
             // 
-            // panel2
+            // button3
             // 
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel2.Controls.Add(this.btnHome);
-            this.panel2.Location = new System.Drawing.Point(0, 0);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(176, 52);
-            this.panel2.TabIndex = 1;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
+            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button3.Location = new System.Drawing.Point(3, 149);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(179, 48);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "            Ajuda";
+            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button3.UseVisualStyleBackColor = true;
             // 
             // button4
             // 
@@ -172,20 +176,6 @@
             this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button4.UseVisualStyleBackColor = true;
             // 
-            // button3
-            // 
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
-            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.Location = new System.Drawing.Point(3, 149);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(179, 48);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "            Ajuda";
-            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.UseVisualStyleBackColor = true;
-            // 
             // button2
             // 
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -200,12 +190,22 @@
             this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button2.UseVisualStyleBackColor = true;
             // 
+            // sidebarTimer
+            // 
+            this.sidebarTimer.Interval = 10;
+            this.sidebarTimer.Tick += new System.EventHandler(this.sidebarTimer_Tick);
+            // 
+            // HomeTimer
+            // 
+            this.HomeTimer.Interval = 10;
+            this.HomeTimer.Tick += new System.EventHandler(this.HomeTimer_Tick);
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(174, -1);
+            this.pictureBox1.Location = new System.Drawing.Point(-2, -1);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(627, 451);
+            this.pictureBox1.Size = new System.Drawing.Size(803, 451);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -215,8 +215,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.sidebar);
+            this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.sidebar.ResumeLayout(false);
