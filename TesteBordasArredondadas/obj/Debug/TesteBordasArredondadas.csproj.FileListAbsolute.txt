@@ -1,0 +1,9 @@
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\bin\Debug\TesteBordasArredondadas.exe.config
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\bin\Debug\TesteBordasArredondadas.exe
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\bin\Debug\TesteBordasArredondadas.pdb
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\obj\Debug\TesteBordasArredondadas.csproj.AssemblyReference.cache
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\obj\Debug\TesteBordasArredondadas.Properties.Resources.resources
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\obj\Debug\TesteBordasArredondadas.csproj.GenerateResource.cache
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\obj\Debug\TesteBordasArredondadas.csproj.CoreCompileInputs.cache
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\obj\Debug\TesteBordasArredondadas.exe
+C:\Users\pietro.froliveira\source\repos\TesteBordasArredondadas\obj\Debug\TesteBordasArredondadas.pdb

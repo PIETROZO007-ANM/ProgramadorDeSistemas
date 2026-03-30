@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteBordasArredondadas", "TesteBordasArredondadas.csproj", "{75D256C2-D021-4D56-950C-1A51F6C21D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D256C2-D021-4D56-950C-1A51F6C21D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D256C2-D021-4D56-950C-1A51F6C21D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D256C2-D021-4D56-950C-1A51F6C21D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D256C2-D021-4D56-950C-1A51F6C21D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A3DFC2-3FE5-4AFD-8D7A-CA662E56A1EE}
+	EndGlobalSection
+EndGlobal
