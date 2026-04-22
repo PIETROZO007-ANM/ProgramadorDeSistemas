@@ -137,10 +137,7 @@ namespace crud
                 codigo_cliente = null;
 
                 //Limpa os campos após o sucesso
-                txtNomeCompleto.Text = string.Empty;
-                txtNomeSocial.Text = "";
-                txtEmail.Text = "";
-                txtCPF.Text = "";
+                limpar_formulario();
 
                 //Recarrega os clientes na ListView
                 carregar_clientes();
@@ -283,10 +280,88 @@ namespace crud
                 txtEmail.Text = item.SubItems[3].Text;
                 txtCPF.Text = item.SubItems[4].Text;
 
+                btnExcluirCliente.Visible = true;
             }
         }
 
         private void btnNovoCadastro_Click(object sender, EventArgs e)
+        {
+            limpar_formulario();
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            excluir_cliente();
+        }
+
+        private void btnExcluirCliente_Click(object sender, EventArgs e)
+        {
+            excluir_cliente();
+        }
+
+        private void excluir_cliente()
+        {
+            try
+            {
+                DialogResult opcaoDigitada = MessageBox.Show("Tem certeza que deseja excluir o registro de código" + codigo_cliente,
+                                                              "Tem certeza?", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (opcaoDigitada == DialogResult.Yes)
+                {
+                    //Excluir no Banco de Dados
+                    Conexao = new MySqlConnection(data_source);
+                    Conexao.Open();
+
+                    MySqlCommand cmd = new MySqlCommand();
+
+                    cmd.Connection = Conexao;
+
+                    cmd.Prepare();
+
+                    cmd.CommandText = "DELETE FROM dadosdocliente WHERE codigo = @codigo";
+
+                    cmd.Parameters.AddWithValue("@codigo", codigo_cliente);
+
+                    cmd.ExecuteNonQuery();
+
+                    MessageBox.Show("Os dados do cliente foram EXCLUIDOS!",
+                                       "Sucesso",
+                                       MessageBoxButtons.OK,
+                                       MessageBoxIcon.Information);
+
+                    limpar_formulario();
+
+                    carregar_clientes();
+
+                    //Muda para a aba de consulçta
+                    tabControl1.SelectedIndex = 1;
+
+                    btnExcluirCliente.Visible = true;
+                }
+            }
+            catch (MySqlException ex)
+            {
+                //Trata erros relacionados ao MySQL
+                MessageBox.Show("Erro " + ex.Number + " ocorreu: " + ex.Message,
+                                "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                //Trata outros tipos de erro
+                MessageBox.Show("Ocorreu: " + ex.Message,
+                                "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+
+            finally
+            {
+                //Garante que a conexão com o banco será fechada, mesmo se ocorrer erro
+                if (Conexao != null && Conexao.State == ConnectionState.Open)
+                {
+                    Conexao.Close();
+                }
+            }
+        }
+        private void limpar_formulario()
         {
             codigo_cliente = null;
 
@@ -296,6 +371,8 @@ namespace crud
             txtCPF.Text = "";
 
             txtNomeCompleto.Focus();
+
+            btnExcluirCliente.Visible = false;
         }
     }
 }
